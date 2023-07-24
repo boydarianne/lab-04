@@ -1,9 +1,10 @@
 header {
-    background-color: rgb(98, 123, 73);
     padding-left: 3%;
     padding-right: 3%;
-    margin-left: 0%;
-    margin-right: 0;
+    margin-left: 23%;
+    margin-right: 23%;
+    background-color: rgb(161, 136, 97);
+
 }
 
 body {
@@ -14,7 +15,11 @@ body {
 
 h2 {
     background-color: bisque;
-    padding-left: 12px;
+    padding-left: 40%;
+    padding-right: 40%;
+    border-style: solid;
+    border-radius: 0%;
+    border-color: rgb(89, 71, 40);
 }
 
 
@@ -22,8 +27,17 @@ ol {
     background-color: bisque;
     margin-left: 30%;
     margin-right: 30%;
+    border-style: solid;
+    border-radius: 0%;
+    border-color: rgb(89, 71, 40);
 }
 
 footer {
-    background-color: rgb(57, 177, 213);
+    background-color: rgb(161, 136, 97);
 }
+
+p {
+    padding-left: 40%;
+    padding-right: 40%;
+}
+
